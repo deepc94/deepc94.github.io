@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu) at [UMass Amherst](https://www.umass.edu) where I investigate fundamental problems in computer vision through the lens of self-supervised deep learning, under the supervision of [Erik Learned-Miller](https://people.cs.umass.edu/~elm/index.html) at the [Vision lab](http://vis-www.cs.umass.edu). I have also collaborated with [Mario Parente](http://rhogroup.org/index.php/people/mario-parente) from [RHOgroup](http://rhogroup.org/index.php), and [Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) from [InfoFusion lab](https://groups.cs.umass.edu/infofusion/home/) in the past on problems in applied computer vision and deep learning. And I have been a research intern twice at [Apple](https://www.apple.com/) and once at [Signify Research](https://www.signify.com/en-us), where I worked on a variety of topics from scene understanding to audio processing. In my free time, I love to cook gourmet dishes (especially those by Gordon Ramsay), and listen to classic rock music (I’m a big fan of Queen).
+I am a Ph.D. candidate at the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu) at [UMass Amherst](https://www.umass.edu) where I investigate fundamental problems in computer vision through the lens of self-supervised deep learning, under the supervision of [Erik Learned-Miller](https://people.cs.umass.edu/~elm/index.html) at the [Vision lab](http://vis-www.cs.umass.edu). I have also collaborated with [Mario Parente](http://rhogroup.org/index.php/people/mario-parente) from [RHOgroup](http://rhogroup.org/index.php), and [Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) from [InfoFusion lab](https://groups.cs.umass.edu/infofusion/home/) in the past on problems in applied computer vision and deep learning. And I have been a research intern twice at [Apple](https://www.apple.com/) and once at [Signify Research](https://www.signify.com/en-us), where I worked on a variety of topics from scene understanding to audio processing. In my free time, I love to experiment with coffee brewing techniques (inspired by James Hoffman), cook gourmet dishes (like those by Gordon Ramsay), and listen to classic rock music (I’m a big fan of Queen).
 
 ## Research Interests
 
@@ -12,17 +12,13 @@ I am a Ph.D. candidate at the [Manning College of Information & Computer Science
 - **Machine Learning:** self-supervised learning, unsupervised learning, hard example mining
 
 ## News
-
+**[Dec. 2023]** Received the CICS dissertation writing fellowship for Spring 2024 in the amount of $16,500!
+**[Dec. 2022]** Passed the Ph.D. qualifying exam (portfolio) to achieve candidacy!
 **[Apr. 2022]** Our paper on Mars Terrain Classification got accepted to Earthvision workshop at CVPR 2022. I will be attending in-person! <br>
 **[Jan. 2022]** Started working at the RHOgroup on computer vision for Mars rover images. <br>
 **[Jun. 2021]** Started 2nd summer internship at Apple working on neural architecture search. <br>
-**[Jul. 2020]** Attending CIFAR Deep Learning & Reinforcement Learning summer school. <br>
-**[Jun. 2020]** Started summer internship at Apple working on object detection and scene graph generation. <br>
-
-<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+<!-- **[Jul. 2020]** Attending CIFAR Deep Learning & Reinforcement Learning summer school. <br> -->
+<!-- **[Jun. 2020]** Started summer internship at Apple working on object detection and scene graph generation. <br> -->
 
 ## Publications
 
