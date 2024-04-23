@@ -12,8 +12,8 @@ I am a Ph.D. candidate at the [Manning College of Information & Computer Science
 - **Machine Learning:** self-supervised learning, unsupervised learning, hard example mining
 
 ## News
-**[Dec. 2023]** Received the CICS dissertation writing fellowship for Spring 2024 in the amount of $16,500!
-**[Dec. 2022]** Passed the Ph.D. qualifying exam (portfolio) to achieve candidacy!
+**[Dec. 2023]** Received the CICS dissertation writing fellowship for Spring 2024 in the amount of $16,500! <br>
+**[Dec. 2022]** Passed the Ph.D. qualifying exam (portfolio) to achieve candidacy! <br>
 **[Apr. 2022]** Our paper on Mars Terrain Classification got accepted to Earthvision workshop at CVPR 2022. I will be attending in-person! <br>
 **[Jan. 2022]** Started working at the RHOgroup on computer vision for Mars rover images. <br>
 **[Jun. 2021]** Started 2nd summer internship at Apple working on neural architecture search. <br>
