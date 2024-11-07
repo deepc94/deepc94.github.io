@@ -12,11 +12,13 @@ I am a Ph.D. candidate at the [Manning College of Information & Computer Science
 - **Machine Learning:** self-supervised learning, unsupervised learning, hard example mining
 
 ## News
+**[Oct. 2024]** Our [paper](papers/chakraborty_2024_w.pdf) got accepted to the workshop on [Self-Supervised Learning - Theory and Practice](https://sslneurips2024.github.io/index.html) at 
+                [NeurIPS 2024](https://neurips.cc/Conferences/2024). I will be attending the conference in person! <br>
 **[Dec. 2023]** Received the [CICS dissertation writing fellowship for Spring 2024](https://www.cics.umass.edu/news/spring-2024-dissertation-writing-fellowships)! <br>
 **[Dec. 2022]** Passed the Ph.D. qualifying exam (portfolio) to achieve candidacy! <br>
 **[Apr. 2022]** Our paper on Mars Terrain Classification got accepted to Earthvision workshop at CVPR 2022. I will be attending in-person! <br>
-**[Jan. 2022]** Started working at the RHOgroup on computer vision for Mars rover images. <br>
-**[Jun. 2021]** Started 2nd summer internship at Apple working on neural architecture search. <br>
+<!-- **[Jan. 2022]** Started working at the RHOgroup on computer vision for Mars rover images. <br> -->
+<!-- **[Jun. 2021]** Started 2nd summer internship at Apple working on neural architecture search. <br> -->
 <!-- **[Jul. 2020]** Attending CIFAR Deep Learning & Reinforcement Learning summer school. <br> -->
 <!-- **[Jun. 2020]** Started summer internship at Apple working on object detection and scene graph generation. <br> -->
 
@@ -26,36 +28,43 @@ I am a Ph.D. candidate at the [Manning College of Information & Computer Science
 
 <sup>[\* = Authors Contributed Equally]</sup>
 
+#### 2024
+
+- **Squeezing Water from a Stone: Improving Pre-Trained Self-Supervised Embeddings Through Effective Entropy Maximization** <br>
+**Deep Chakraborty**, Tim G. J. Rudner, Erik Learned-Miller <br>
+*NeurIPS 2024 Workshop on Self-Supervised Learning - Theory and Practice* <br>
+[[PDF](papers/chakraborty_2024_w.pdf)]
+
 #### 2022
 
 - **Self-Supervised Learning to Guide Scientifically Relevant Terrain Categorization in Martian Terrain Images** <br>
   Tejas Panambur\*, **Deep Chakraborty\***, Melissa Meyer, Ralph Milliken, Erik Learned-Miller, Mario Parente <br>
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) <br>
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)* <br>
   [[PDF](papers/panambur_2022.pdf)] [[arXiv](https://arxiv.org/abs/2204.09854)] [[Code](https://github.com/TejasPanambur/mastcam)]
 
 #### 2019
 - **Nonparallel emotional speech conversion** <br>
   Jian Gao, **Deep Chakraborty**, Hamidou Tembine, Olaitan Olaleye <br>
-  Annual Conference of the International Speech Communication Association (INTERSPEECH) <br>
+  *Annual Conference of the International Speech Communication Association (INTERSPEECH)* <br>
   [[PDF](papers/gao_2019.pdf)] [[arXiv](https://arxiv.org/abs/1811.01174)] [[Project Page](https://www.jian-gao.org/emovc)]
 
 - **Pedestrian Detection in Thermal Images using Saliency Maps** <br>
   Debasmita Ghose\*, Shasvat Desai\*, Sneha Bhattacharya\*, **Deep Chakraborty\***, Madalina Fiterau, Tauhidur Rahman <br>
-  IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) <br>
+  *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)* <br>
   [[PDF](papers/ghose_2019.pdf)] [[arXiv](https://arxiv.org/abs/1904.06859)] [[Project Page](https://information-fusion-lab-umass.github.io/Salient-Pedestrian-Detection/)] [[Spotlight Video](https://youtu.be/Ohs6VUkdcQU)]
 
 #### 2018
 
 - **Unsupervised Hard Example Mining from Videos for Object Detection** <br>
   SouYoung Jin\*, Aruni RoyChowdhury\*, Huaizu Jiang, Ashish Singh, Aditya Prasad, **Deep Chakraborty**, Erik Learned-Miller <br>
-  European Conference on Computer Vision (ECCV) <br>
+  *European Conference on Computer Vision (ECCV)* <br>
   [[PDF](papers/jin_2018.pdf)] [[arXiv](https://arxiv.org/abs/1808.04285)] [[Project Page](http://vis-www.cs.umass.edu/unsupVideo/)]
 
 #### 2016
 
 - **Bird Call Identification using Dynamic Kernel based Support Vector Machines and Deep Neural Networks** <br>
   **Deep Chakraborty**, Paawan Mukker, Padmanabhan Rajan, Dileep A.D. <br>
-  IEEE International Conference on Machine Learning and Applications (ICMLA) <br>
+  *IEEE International Conference on Machine Learning and Applications (ICMLA)* <br>
   [[PDF](papers/chakraborty_2016.pdf)]
 
 <!-- [[PDF]()] [[Code]()] [[Project]()] -->
@@ -85,7 +94,7 @@ I am a Ph.D. candidate at the [Manning College of Information & Computer Science
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
 
 ## Activities
-- Reviewer for ECCV, ICLR
+- Reviewer for ECCV, CVPR
 - Speaker at [EMBER](https://groups.cs.umass.edu/ember/)
 - Mentor at [Eureka!](https://www.cns.umass.edu/outreach/eureka-umass-amherst)
 
