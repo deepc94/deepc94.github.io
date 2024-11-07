@@ -4,12 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu) at [UMass Amherst](https://www.umass.edu) where I investigate fundamental problems in computer vision through the lens of self-supervised deep learning, under the supervision of [Erik Learned-Miller](https://people.cs.umass.edu/~elm/index.html) at the [Vision lab](http://vis-www.cs.umass.edu). I have also collaborated with [Mario Parente](http://rhogroup.org/index.php/people/mario-parente) from [RHOgroup](http://rhogroup.org/index.php), and [Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) from [InfoFusion lab](https://groups.cs.umass.edu/infofusion/home/) in the past on problems in applied computer vision and deep learning. And I have been a research intern twice at [Apple](https://www.apple.com/) and once at [Signify Research](https://www.signify.com/en-us), where I worked on a variety of topics from scene understanding to audio processing. In my free time, I love to experiment with coffee brewing techniques (inspired by James Hoffman), cook gourmet dishes (like those by Gordon Ramsay), and listen to classic rock music (I’m a big fan of Queen).
+I am a Ph.D. candidate at the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu) at [UMass Amherst](https://www.umass.edu) where I investigate fundamental problems in computer vision through the lens of self-supervised learning and information theory, under the supervision of [Erik Learned-Miller](https://people.cs.umass.edu/~elm/index.html) at the [Vision lab](http://vis-www.cs.umass.edu). 
+
+I have also worked with [Mario Parente](http://rhogroup.org/index.php/people/mario-parente) from [RHOgroup](http://rhogroup.org/index.php), and [Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) from [InfoFusion lab](https://groups.cs.umass.edu/infofusion/home/) in the past on problems in applied computer vision and deep learning. 
+My industry experience includes two research internships at [Apple](https://www.apple.com/) and one at [Philips Lighting Research](https://www.signify.com/en-us), where I worked on a variety of topics from scene understanding to audio processing. 
+In my free time, I love to experiment with coffee brewing techniques (inspired by James Hoffman), cook gourmet dishes (like those by Gordon Ramsay), and listen to classic rock music (I’m a big fan of Queen).
 
 ## Research Interests
 
-- **Computer Vision:** scene understanding, object detection, tracking, contrastive learning
-- **Machine Learning:** self-supervised learning, unsupervised learning, hard example mining
+- **Machine Learning:** self-supervised learning, unsupervised learning, information theory
+- **Computer Vision:** scene understanding, object detection, tracking
 
 ## News
 **[Oct. 2024]** Our [paper](papers/chakraborty_2024_w.pdf) got accepted to the workshop on [Self-Supervised Learning - Theory and Practice](https://sslneurips2024.github.io/index.html) at 
