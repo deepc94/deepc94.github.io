@@ -24,7 +24,7 @@ I am a Ph.D. candidate at the [Manning College of Information & Computer Science
 
 ## Publications
 
-[2022](#2022) \| [2019](#2019) \| [2018](#2018) \| [2016](#2016)
+[2024](#2024) \| [2022](#2022) \| [2019](#2019) \| [2018](#2018) \| [2016](#2016)
 
 <sup>[\* = Authors Contributed Equally]</sup>
 
