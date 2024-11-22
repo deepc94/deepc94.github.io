@@ -34,6 +34,11 @@ In my free time, I love to experiment with coffee brewing techniques (inspired b
 
 #### 2024
 
+- **Improving Pre-Trained Self-Supervised Embeddings Through Effective Entropy Maximization** <br>
+**Deep Chakraborty**, Tim G. J. Rudner, Erik Learned-Miller <br>
+*Preprint, in submission* <br>
+[[PDF](papers/chakraborty_2024_e2mc.pdf)]
+
 - **Squeezing Water from a Stone: Improving Pre-Trained Self-Supervised Embeddings Through Effective Entropy Maximization** <br>
 **Deep Chakraborty**, Tim G. J. Rudner, Erik Learned-Miller <br>
 *NeurIPS 2024 Workshop on Self-Supervised Learning - Theory and Practice* <br>
