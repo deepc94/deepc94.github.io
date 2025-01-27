@@ -16,12 +16,13 @@ In my free time, I love to experiment with coffee brewing techniques (inspired b
 - **Computer Vision:** scene understanding, object detection, tracking
 
 ## News
+**[Jan. 2025]** Our E2MC paper has been accepted to [AISTATS 2025](https://aistats.org/aistats2025/)! I will be presenting in person at the conference in Thailand from May 3-6. <br> 
 **[Nov. 2024]** Our E2MC paper is now available as a preprint on [arXiv](https://arxiv.org/abs/2411.15931). <br> 
 **[Oct. 2024]** Our [paper](papers/chakraborty_2024_w.pdf) got accepted to the workshop on [Self-Supervised Learning - Theory and Practice](https://sslneurips2024.github.io/index.html) at 
                 [NeurIPS 2024](https://neurips.cc/Conferences/2024). I will be attending the conference in person! <br>
 **[Dec. 2023]** Received the [CICS dissertation writing fellowship for Spring 2024](https://www.cics.umass.edu/news/spring-2024-dissertation-writing-fellowships)! <br>
-**[Dec. 2022]** Passed the Ph.D. qualifying exam (portfolio) to achieve candidacy! <br>
-**[Apr. 2022]** Our paper on Mars Terrain Classification got accepted to Earthvision workshop at CVPR 2022. I will be attending in-person! <br>
+<!-- **[Dec. 2022]** Passed the Ph.D. qualifying exam (portfolio) to achieve candidacy! <br> -->
+<!-- **[Apr. 2022]** Our paper on Mars Terrain Classification got accepted to Earthvision workshop at CVPR 2022. I will be attending in-person! <br> -->
 <!-- **[Jan. 2022]** Started working at the RHOgroup on computer vision for Mars rover images. <br> -->
 <!-- **[Jun. 2021]** Started 2nd summer internship at Apple working on neural architecture search. <br> -->
 <!-- **[Jul. 2020]** Attending CIFAR Deep Learning & Reinforcement Learning summer school. <br> -->
@@ -29,16 +30,19 @@ In my free time, I love to experiment with coffee brewing techniques (inspired b
 
 ## Publications
 
-[2024](#2024) \| [2022](#2022) \| [2019](#2019) \| [2018](#2018) \| [2016](#2016)
+[2025](#2025) \| [2024](#2024) \| [2022](#2022) \| [2019](#2019) \| [2018](#2018) \| [2016](#2016)
 
 <sup>[\* = Authors Contributed Equally]</sup>
 
-#### 2024
+#### 2025
 
 - **Improving Pre-Trained Self-Supervised Embeddings Through Effective Entropy Maximization** <br>
 **Deep Chakraborty**, Yann LeCun, Tim G. J. Rudner, Erik Learned-Miller <br>
-*Preprint, in submission* <br>
+*International Conference on Artificial Intelligence and Statistics (AISTATS)* <br>
 [[PDF](papers/chakraborty_2024_e2mc.pdf)] [[arXiv](https://arxiv.org/abs/2411.15931)]
+
+
+#### 2024
 
 - **Squeezing Water from a Stone: Improving Pre-Trained Self-Supervised Embeddings Through Effective Entropy Maximization** <br>
 **Deep Chakraborty**, Tim G. J. Rudner, Erik Learned-Miller <br>
