@@ -36,6 +36,11 @@ In my free time, I love to experiment with coffee brewing techniques (inspired b
 
 #### 2025
 
+- **A Survey on Data Curation for Visual Contrastive Learning: Why Crafting Effective Positive and Negative Pairs Matters** <br>
+Shasvat Desai, Debasmita Ghose, **Deep Chakraborty** <br>
+*In Submission* <br>
+[[arXiv](https://arxiv.org/abs/2502.08134)]
+
 - **Improving Pre-Trained Self-Supervised Embeddings Through Effective Entropy Maximization** <br>
 **Deep Chakraborty**, Yann LeCun, Tim G. J. Rudner, Erik Learned-Miller <br>
 *International Conference on Artificial Intelligence and Statistics (AISTATS)* <br>
