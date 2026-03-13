@@ -4,15 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. candidate at the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu) at [UMass Amherst](https://www.umass.edu) where I investigate fundamental problems in computer vision through the lens of self-supervised learning and information theory, under the supervision of [Erik Learned-Miller](https://people.cs.umass.edu/~elm/index.html) at the [Vision lab](http://vis-www.cs.umass.edu). 
-
-I have also worked with [Mario Parente](http://rhogroup.org/index.php/people/mario-parente) from [RHOgroup](http://rhogroup.org/index.php), and [Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) from [InfoFusion lab](https://groups.cs.umass.edu/infofusion/home/) in the past on problems in applied computer vision and deep learning. 
-<br>
-My industry experience includes two research internships at [Apple](https://www.apple.com/) and one at [Philips Lighting Research](https://www.signify.com/en-us), where I worked on a variety of topics from scene understanding to audio processing. 
-In my free time, I love to experiment with coffee brewing techniques (inspired by James Hoffman), go on long rides on my road bike, and listen to classic rock music (I’m a big fan of Queen).
-
-**I am on the industry job market for Research or Applied Scientist roles starting June 2026!** <br>
+**I am on the industry job market for Research and Applied Scientist roles starting June 2026!** <br>
 Here's my [résumé](resume.pdf).
+
+I am a final-year Ph.D. candidate at the [Manning College of Information & Computer Sciences](https://www.cics.umass.edu) at [UMass Amherst](https://www.umass.edu) where I investigate fundamental problems in computer vision through the lens of self-supervised learning (SSL) and information theory, under the supervision of [Erik Learned-Miller](https://people.cs.umass.edu/~elm/index.html) at the Vision lab.
+
+I have also worked with [Mario Parente](http://rhogroup.org/index.php/people/mario-parente) and [Ina Fiterau](https://people.cs.umass.edu/~mfiterau/) in the past on applications of SSL to remote sensing and thermal images for object detection and clustering. My industry experience includes two research internships at [Apple](https://www.apple.com/) and one at [Philips Lighting Research](https://www.signify.com/en-us), where I worked on a variety of topics from scene understanding to audio processing. 
+
+In my free time, I love to experiment with coffee brewing techniques (inspired by James Hoffman), go on long rides on my road bike, and listen to classic rock music (I’m a big fan of Queen).
 
 
 ## Research Interests
@@ -22,7 +21,7 @@ Here's my [résumé](resume.pdf).
 
 ## News
 
-**[Nov. 2025]** [RadialVCReg](https://openreview.net/pdf?id=WrhcrooAl8) by [Yilun Kuang](https://yilunkuang.github.io/) et al., an alternative way of learning maximally informative SSL representations (follow up work to E2MC) will appear at NeurIPS 2025 [UniReps](https://unireps.org/2025/) and [NeurReps](https://www.neurreps.org/) workshops. I will be attending in person. <br>
+**[Nov. 2025]** [RadialVCReg](https://arxiv.org/abs/2602.14272), an alternative way of learning maximally informative SSL representations (follow up work to E2MC), will appear in NeurIPS 2025 [UniReps](https://unireps.org/2025/) and [NeurReps](https://www.neurreps.org/) workshops. <br>
 **[Oct. 2025]** I was recognized as an [outstanding reviewer](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) at ICCV 2025 (Top 2.6% of 12,171 reviewers). <br>
 **[Sep. 2025]** I successfully defended by [dissertation proposal](https://www.cics.umass.edu/events/phd-thesis-proposal-d-chakraborty), for my planned Ph.D. thesis titled "Information-Theoretic Methods for Understanding and Improving Representations in  Neural Networks". <br>
 **[Sep. 2025]** My E2MC poster received the best poster award at the Prairie/MIAI Artificial Intelligence Summer School ([PAISS 2025](https://paiss.inria.fr/)) in Grenoble, France. <br>
@@ -49,7 +48,7 @@ Here's my [résumé](resume.pdf).
 Yilun Kuang, Yash Dagade, **Deep Chakraborty**, Erik Learned-Miller, Randall Balestriero, Tim G. J. Rudner, Yann LeCun <br>
 *NeurIPS 2025 Workshop on Unifying Representations in Neural Models* <br>
 *NeurIPS 2025 Workshop on Symmetry and Geometry in Neural Representations* <br>
-[[PDF](https://openreview.net/pdf?id=WrhcrooAl8)]
+[[PDF](https://arxiv.org/abs/2602.14272)] [[Code](https://github.com/YilunKuang/RadialVCReg)]
 
 - **A Survey on Data Curation for Visual Contrastive Learning: Why Crafting Effective Positive and Negative Pairs Matters** <br>
 Shasvat Desai, Debasmita Ghose, **Deep Chakraborty** <br>
@@ -128,7 +127,7 @@ Shasvat Desai, Debasmita Ghose, **Deep Chakraborty** <br>
   [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] -->
 
 ## Activities
-- Reviewer for ECCV, CVPR
+- Reviewer for CVPR, ICCV, ECCV
 - Speaker at [EMBER](https://groups.cs.umass.edu/ember/)
 - Mentor at [Eureka!](https://www.cns.umass.edu/outreach/eureka-umass-amherst)
 
