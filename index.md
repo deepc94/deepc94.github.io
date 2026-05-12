@@ -19,7 +19,7 @@ In my free time, I love to experiment with coffee brewing techniques (inspired b
 - **Computer Vision:** scene understanding, object detection, tracking
 
 ## News
-**[May 2025]** I successfully [defended my Ph.D. thesis](https://www.cics.umass.edu/events/phd-thesis-defense-deep-chakraborty) titled "Understanding, Improving, and Applying Self-Supervised Neural Representations". <br>
+**[May 2026]** I successfully [defended my Ph.D. thesis](https://www.cics.umass.edu/events/phd-thesis-defense-deep-chakraborty) titled "Understanding, Improving, and Applying Self-Supervised Neural Representations". <br>
 **[Nov. 2025]** [RadialVCReg](https://arxiv.org/abs/2602.14272), an alternative way of learning maximally informative SSL representations (follow up work to E2MC), will appear in NeurIPS 2025 [UniReps](https://unireps.org/2025/) and [NeurReps](https://www.neurreps.org/) workshops. <br>
 **[Oct. 2025]** I was recognized as an [outstanding reviewer](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) at ICCV 2025 (Top 2.6% of 12,171 reviewers). <br>
 <!-- **[Sep. 2025]** I successfully defended my [dissertation proposal](https://www.cics.umass.edu/events/phd-thesis-proposal-d-chakraborty), for my planned Ph.D. thesis titled "Information-Theoretic Methods for Understanding and Improving Representations in  Neural Networks". <br> -->
