@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-👋 Hi, I am Deep, a computer scientist and engineer.
+👋 Hi, I am Deep, a computer scientist and engineer. Currently, I work at Waymo.
 
 I did my Ph.D. from the beautiful [University of Massachusetts Amherst](https://www.umass.edu) where I investigated fundamental problems in computer vision through the lens of self-supervised learning (SSL) and information theory, under the supervision of [Erik Learned-Miller](https://people.cs.umass.edu/~elm/index.html) at the Vision lab. I also worked on applying SSL to remote sensing and thermal images for object discovery and detection. 
 
@@ -19,12 +19,13 @@ In my free time, I love to experiment with coffee brewing techniques (inspired b
 - **Computer Vision:** scene understanding, object detection, tracking
 
 ## News
+**[July 2026]** I joined Waymo as a Machine Learning Engineer in the Degraded Road Surfaces and Weather (DRAW) team. <br>
 **[May 2026]** I successfully [defended my Ph.D. thesis](https://www.cics.umass.edu/events/phd-thesis-defense-deep-chakraborty) titled "Understanding, Improving, and Applying Self-Supervised Neural Representations". <br>
-**[Nov. 2025]** [RadialVCReg](https://arxiv.org/abs/2602.14272), an alternative way of learning maximally informative SSL representations (follow up work to E2MC), will appear in NeurIPS 2025 [UniReps](https://unireps.org/2025/) and [NeurReps](https://www.neurreps.org/) workshops. <br>
-**[Oct. 2025]** I was recognized as an [outstanding reviewer](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) at ICCV 2025 (Top 2.6% of 12,171 reviewers). <br>
+<!-- **[Nov. 2025]** [RadialVCReg](https://arxiv.org/abs/2602.14272), an alternative way of learning maximally informative SSL representations (follow up work to E2MC), will appear in NeurIPS 2025 [UniReps](https://unireps.org/2025/) and [NeurReps](https://www.neurreps.org/) workshops. <br> -->
+<!-- **[Oct. 2025]** I was recognized as an [outstanding reviewer](https://iccv.thecvf.com/Conferences/2025/ProgramCommittee#all-outstanding-reviewer) at ICCV 2025 (Top 2.6% of 12,171 reviewers). <br> -->
 <!-- **[Sep. 2025]** I successfully defended my [dissertation proposal](https://www.cics.umass.edu/events/phd-thesis-proposal-d-chakraborty), for my planned Ph.D. thesis titled "Information-Theoretic Methods for Understanding and Improving Representations in  Neural Networks". <br> -->
-**[Sep. 2025]** My E2MC poster received the best poster award at the Prairie/MIAI Artificial Intelligence Summer School ([PAISS 2025](https://paiss.inria.fr/)) in Grenoble, France. <br>
-**[Jan. 2025]** Our E2MC paper has been accepted to [AISTATS 2025](https://aistats.org/aistats2025/)! I will be presenting in person at the conference in Thailand from May 3-6. Read it [here](https://arxiv.org/abs/2411.15931).<br> 
+<!-- **[Sep. 2025]** My E2MC poster received the best poster award at the Prairie/MIAI Artificial Intelligence Summer School ([PAISS 2025](https://paiss.inria.fr/)) in Grenoble, France. <br> -->
+<!-- **[Jan. 2025]** Our E2MC paper has been accepted to [AISTATS 2025](https://aistats.org/aistats2025/)! I will be presenting in person at the conference in Thailand from May 3-6. Read it [here](https://arxiv.org/abs/2411.15931).<br>  -->
 <!-- **[Nov. 2024]** Our E2MC paper is now available as a preprint on [arXiv](https://arxiv.org/abs/2411.15931). <br>  -->
 <!-- **[Oct. 2024]** Our [paper](papers/chakraborty_2024_w.pdf) got accepted to the workshop on [Self-Supervised Learning - Theory and Practice](https://sslneurips2024.github.io/index.html) at [NeurIPS 2024](https://neurips.cc/Conferences/2024). I will be attending the conference in person! <br> -->
 <!-- **[Dec. 2023]** Received the [CICS dissertation writing fellowship for Spring 2024](https://www.cics.umass.edu/news/spring-2024-dissertation-writing-fellowships)! <br> -->
